@@ -1,7 +1,5 @@
 # flask-init-mini
 
-# flask-init-mini
-
 This project is a boilerplate for future Flask applications.
 
 Below steps can be executed on any unix like system. I will use ubuntu deployed on
